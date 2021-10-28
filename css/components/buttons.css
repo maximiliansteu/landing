@@ -1,0 +1,14 @@
+.btn-medium {
+  background-color: #8236CB;
+  padding: 15px;
+  font-weight: lighter;
+  border-radius: 25px;
+  color: white;
+  font-size: 23px;
+  box-shadow: 10px 10px 30px rgba(143, 66, 169, 0.7);
+}
+
+.btn-medium:hover {
+  background-color: #C37B89;
+  box-shadow: 10px 10px 30px #C37B89;
+}
